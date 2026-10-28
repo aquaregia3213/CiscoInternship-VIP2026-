@@ -1,0 +1,38 @@
+==================================================
+        NetSage AI Project Dashboard Metrics      
+==================================================
+
+Total Cases Recorded: 21
+
+--- AI Agreement & Responsible AI Review ---
+Total Human Reviews:    21
+Accepted AI Diagnoses: 16 (76.2%)
+Edited AI Diagnoses:   3 (14.3%)
+Rejected AI Diagnoses: 2 (9.5%)
+
+--- Cases by OSI Layer ---
+  Layer 3     :  8 cases (38.1%)
+  Layer 1     :  2 cases (9.5%)
+  Layer 2     :  6 cases (28.6%)
+  Layer 4     :  2 cases (9.5%)
+  Layer 7     :  3 cases (14.3%)
+
+--- Severity Breakdown ---
+  Low         :  3 cases (14.3%)
+  High        : 18 cases (85.7%)
+
+--- Networking Concept Breakdown ---
+  Interface Status         :  4 cases
+  Default Gateway          :  2 cases
+  IP Addressing            :  2 cases
+  Access Control Lists     :  2 cases
+  DHCP Services            :  2 cases
+  Baseline Connectivity    :  1 cases
+  Subnetting               :  1 cases
+  VLAN Trunking            :  1 cases
+  NAT / PAT                :  1 cases
+  Port Security            :  1 cases
+  Physical Link Parameters :  1 cases
+  DNS Services             :  1 cases
+  OSPF Routing             :  1 cases
+  Router-on-a-Stick        :  1 cases

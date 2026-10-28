@@ -1,0 +1,27 @@
+Metric Category,Metric Name,Value
+Overview,Total Cases,21
+Responsible AI,Accepted Cases,16
+Responsible AI,Edited Cases,3
+Responsible AI,Rejected Cases,2
+Responsible AI,AI Agreement Rate (%),76.2
+OSI Layer,Layer 3,8
+OSI Layer,Layer 1,2
+OSI Layer,Layer 2,6
+OSI Layer,Layer 4,2
+OSI Layer,Layer 7,3
+Severity,Low,3
+Severity,High,18
+Concept,Baseline Connectivity,1
+Concept,Interface Status,4
+Concept,Default Gateway,2
+Concept,Subnetting,1
+Concept,IP Addressing,2
+Concept,VLAN Trunking,1
+Concept,Access Control Lists,2
+Concept,DHCP Services,2
+Concept,NAT / PAT,1
+Concept,Port Security,1
+Concept,Physical Link Parameters,1
+Concept,DNS Services,1
+Concept,OSPF Routing,1
+Concept,Router-on-a-Stick,1
