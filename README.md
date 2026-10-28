@@ -38,7 +38,7 @@ NetSage AI provides a systematic approach to diagnosing, fixing, and verifying n
 | 📁 [`evidence/`](evidence/) | Screenshot evidence folders (`CASE-001/` to `CASE-012/`) stored with clean relative paths. | ✅ Complete |
 | 📄 [`summary/Summary_Report.md`](summary/Summary_Report.md) | Executive summary document summarizing architecture, OSI breakdown, and metrics. | ✅ Complete |
 | 💾 [`packet_tracer/`](packet_tracer/) | Includes Cisco Packet Tracer `.pkt` file (`AtharvaJadhav,MITAOE,ARTIFICIALINTELLIGENCE.pkt`). | ✅ Complete |
-| 🎥 [`demo/`](demo/) | Folder reserved for screen recording video (`Demo_Video.mp4`). | ⚠️ Pending Recording |
+| 🎥 [`demo/`](demo/) | Folder reserved for screen recording video (`Demo_Video.mp4`). | ✅ Complete |
 
 ---
 
